@@ -50,6 +50,9 @@
       display: flex;
       justify-content: space-around;
     }
+    .buttons>*:hover{
+      cursor: pointer;
+    }
   }
   .editWindow {
     position: absolute;
